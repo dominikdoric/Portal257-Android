@@ -1,4 +1,4 @@
-package com.doric.portal257
+package com.doric.portal257.application
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.doric.portal257.ui.theme.Portal257Theme
+import com.doric.portal257.presentation.theme.Portal257Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
