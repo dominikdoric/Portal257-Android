@@ -1,4 +1,4 @@
-package com.doric.portal257.ui.theme
+package com.doric.portal257.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
